@@ -172,6 +172,7 @@ img { /* Alle Bilder bekommen einen schönen Rahmen. */
     overflow:hidden;
 }
 .productsGridList li {float:left;}
+.productsGridList li img {height: 120px;}
 
 .imageBox{
         /*cursor:pointer;*/
